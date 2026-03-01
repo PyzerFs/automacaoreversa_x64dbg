@@ -8,6 +8,10 @@ entre a arquitetura e os breakpoints
 
 FEITA C++ COM INTEGRAÇÃO EM PYTHON
 
+quem quiser da continuidade no projeto
+fiz esse repositorio como base do codigo
+e faça testes apenas em laboratorio controlado!!
+
 
 ✔ Objetivo do sistema
 ✔ Arquitetura
