@@ -13,14 +13,21 @@ fiz esse repositorio como base do codigo
 e faça testes apenas em laboratorio controlado!!
 
 
-✔ Objetivo do sistema
-✔ Arquitetura
-✔ Comunicação com x64dbg
-✔ Automação de breakpoints
-✔ Coleta de registradores/memória
-✔ Pipeline de análise
-✔ Tecnologias
-✔ Execução
+- Objetivo do sistema
+- 
+- Arquitetura
+- 
+- Comunicação com x64dbg
+- 
+- Automação de breakpoints
+- 
+- Coleta de registradores/memória
+- 
+- Pipeline de análise
+- 
+- Tecnologias
+- 
+- Execução
 
 
 Este projeto implementa uma camada de automação para o depurador x64dbg (xdbg64), permitindo a execução controlada de breakpoints, leitura de registradores e inspeção de memória através de uma API em Python integrada a um módulo nativo em C++
